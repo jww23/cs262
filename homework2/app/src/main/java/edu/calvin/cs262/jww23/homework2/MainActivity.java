@@ -14,10 +14,16 @@ import android.widget.EditText;
 import android.widget.TextView;
 import org.json.JSONArray;
 import org.json.JSONObject;
-
 import edu.calvin.cs262.jww23.lab05.R;
 
-
+/**
+ * The MainActivity enables the application to read JSON data from a webservice and displays
+ * when the fetch button is pressed 
+ *
+ * @author  Josh Wilson
+ * @version 1.0
+ * @since   11-16-2018
+ */
 public class MainActivity extends AppCompatActivity
         implements LoaderManager.LoaderCallbacks<String>{
 
