@@ -1,0 +1,11 @@
+As a user, I want to be able to edit and delete events in the schedule.
+
+
+Imagine that you want to change the details of an event or remove it. These steps will show you how:
+	1. Click on the schedule icon at the bottom of your screen.
+	2. Press the more options icon on the desired event,
+	3. Click either edit to change the details of an event or delete to get remove it.
+
+
+
+My instructions received a 4.6 from Flesch-Kincaid Grade level scheme. The Mail Merge on the other hand got a 8.2 and opening paragraph of the CS Department homepage received a 22.1.
